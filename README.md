@@ -3,8 +3,8 @@
 ## Authors
 
 - Steve Choi |
-- Tim Nguyen |
 - Jennifer Lam |
-- Matthew Wong |
+- Tim Nguyen |
+- Matthew Wong | _matthew.aramis@gmail.com_
 
 ---
